@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VXw5AQNsdUfLXk1BTkWqj9xmFmNvo7lUDew99CJj0a+Fcx8HTLzG+9lYjgK2WcAFfghkeXcdZSP4EM1QjLmHiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\perki\\Desktop\\MIS 321\\mis321-pa1-FredP\\mis321-pa1-FredP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\perki\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

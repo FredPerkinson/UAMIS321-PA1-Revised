@@ -1,0 +1,17 @@
+C:\Users\perki\Desktop\MIS 321\mis321-pa1-FredP\obj\Debug\net6.0\mis321-pa1-FredP.csproj.AssemblyReference.cache
+C:\Users\perki\Desktop\MIS 321\mis321-pa1-FredP\obj\Debug\net6.0\mis321-pa1-FredP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perki\Desktop\MIS 321\mis321-pa1-FredP\obj\Debug\net6.0\mis321-pa1-FredP.AssemblyInfoInputs.cache
+C:\Users\perki\Desktop\MIS 321\mis321-pa1-FredP\obj\Debug\net6.0\mis321-pa1-FredP.AssemblyInfo.cs
+C:\Users\perki\Desktop\MIS 321\mis321-pa1-FredP\obj\Debug\net6.0\mis321-pa1-FredP.csproj.CoreCompileInputs.cache
+C:\Users\perki\Desktop\MIS 321\mis321-pa1-FredP\bin\Debug\net6.0\mis321-pa1-FredP.exe
+C:\Users\perki\Desktop\MIS 321\mis321-pa1-FredP\bin\Debug\net6.0\mis321-pa1-FredP.deps.json
+C:\Users\perki\Desktop\MIS 321\mis321-pa1-FredP\bin\Debug\net6.0\mis321-pa1-FredP.runtimeconfig.json
+C:\Users\perki\Desktop\MIS 321\mis321-pa1-FredP\bin\Debug\net6.0\mis321-pa1-FredP.dll
+C:\Users\perki\Desktop\MIS 321\mis321-pa1-FredP\bin\Debug\net6.0\mis321-pa1-FredP.pdb
+C:\Users\perki\Desktop\MIS 321\mis321-pa1-FredP\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\perki\Desktop\MIS 321\mis321-pa1-FredP\obj\Debug\net6.0\mis321-pa1-FredP.csproj.CopyComplete
+C:\Users\perki\Desktop\MIS 321\mis321-pa1-FredP\obj\Debug\net6.0\mis321-pa1-FredP.dll
+C:\Users\perki\Desktop\MIS 321\mis321-pa1-FredP\obj\Debug\net6.0\refint\mis321-pa1-FredP.dll
+C:\Users\perki\Desktop\MIS 321\mis321-pa1-FredP\obj\Debug\net6.0\mis321-pa1-FredP.pdb
+C:\Users\perki\Desktop\MIS 321\mis321-pa1-FredP\obj\Debug\net6.0\mis321-pa1-FredP.genruntimeconfig.cache
+C:\Users\perki\Desktop\MIS 321\mis321-pa1-FredP\obj\Debug\net6.0\ref\mis321-pa1-FredP.dll
